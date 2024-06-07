@@ -7,11 +7,8 @@ This project is designed for video surveillance and anomaly detection. It uses t
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
-- [Model Training](#model-training)
 - [Anomaly Detection](#anomaly-detection)
-- [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 1. Clone the repository
